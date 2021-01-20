@@ -1,22 +1,15 @@
-import logo from './logo.svg';
+import picture from './img/nardwuar.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h1>
           Adam Swanson
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        </h1>
+        <h2>Frontend Web Developer</h2>
+        <img src={picture} alt="profilePic" />
       </header>
     </div>
   );
