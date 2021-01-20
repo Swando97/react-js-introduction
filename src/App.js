@@ -8,7 +8,7 @@ function App() {
         <h1>
           Adam Swanson
         </h1>
-        <h2>Frontend Web Developer</h2>
+        <p> A gallery of Adam Swanson's Photoshop skills.</p>
         <img src={picture} alt="profilePic" />
       </header>
     </div>
