@@ -10,15 +10,18 @@ function App() {
         <h1>
           Adam Swanson
         </h1>
-        <p> A gallery of Adam Swanson's Photoshop skills.</p>
-        <div class="w3-row">
-          <div class="w3-col s6 w3-green w3-center"><p>s6</p></div>
-          <div class="w3-col s6 w3-dark-grey w3-center"><p>s6</p></div>
-        </div>
-        <div class="w3-row">
-        <img class="w3-col w3-container m4 l3" src={picture} alt="NardwuarPic"></img>
-        <img class="w3-col w3-container m4 l3" src={AdamPicture} alt="AdamPic" />
-        <img class="w3-col w3-container m4 l3" src={LoopiPicture} alt="LoopilassoPic" />
+        <p> A gallery of Adam Swanson's recent Photoshop edits.</p>
+        <div class="row">
+          <div class="column">
+            <img src={picture} alt="NardwuarPic" />
+            <img src={AdamPicture} alt="AdamPic" />
+            <img src={LoopiPicture} alt="LoopilassoPic" />
+          </div>
+          <div class="column">
+            <img src={picture} alt="NardwuarPic" />
+            <img src={AdamPicture} alt="AdamPic" />
+            <img src={LoopiPicture} alt="LoopilassoPic" />
+          </div>
         </div>
       </header>
     </div>
