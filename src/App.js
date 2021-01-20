@@ -1,4 +1,6 @@
 import picture from './img/nardwuar.png';
+import AdamPicture from './img/adamswanson.png';
+import LoopiPicture from './img/loopilasso.png';
 import './App.css';
 
 function App() {
@@ -9,7 +11,10 @@ function App() {
           Adam Swanson
         </h1>
         <p> A gallery of Adam Swanson's Photoshop skills.</p>
-        <img src={picture} alt="profilePic" />
+        <img src={picture} alt="NardwuarPic" />
+        <img src={AdamPicture} alt="AdamPic" />
+        <img src={LoopiPicture} alt="LoopilassoPic" />
+        
       </header>
     </div>
   );
