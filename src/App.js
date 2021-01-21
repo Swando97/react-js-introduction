@@ -14,16 +14,16 @@ function App() {
         <p> A gallery of Adam Swanson's recent Photoshop edits.</p>
         <div class="row">
           <div class="column">
-            <img src={CoffeePicture} alt="AdamPic" />
+            <img src={AdamPicture} alt="AdamPic" />
           </div>
           <div class="column">
-            <img src={CoffeePicture} alt="LoopiPic" />
+            <img src={LoopiPicture} alt="LoopiPic" />
           </div>
           <div class="column">
             <img src={CoffeePicture} alt="CoffeePic" />
           </div>
           <div class="column">
-            <img src={CoffeePicture} alt="NardwuarPic" />
+            <img src={picture} alt="NardwuarPic" />
           </div>
         </div>
             
