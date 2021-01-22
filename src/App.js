@@ -18,17 +18,12 @@ function App() {
           </div>
           <div class="column">
             <img src={trevor} alt="Trevor Henits" />
-            
-            
           </div>
           <div class="column">
             <img src={koffi} alt="Koffi" />
-        
           </div>
           <div class="column">
             <img src={chris} alt="Chris Butler" />
-            
-         
           </div>
         </div>
       </header>
