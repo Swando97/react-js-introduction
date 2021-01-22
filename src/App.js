@@ -9,22 +9,25 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Adam Swanson
+          Adam Swanson Photography
         </h1>
-        <p> A gallery of Adam Swanson's recent Photoshop edits.</p>
+        <p> A gallery of Adam Swanson's close family and friends.</p>
         <div class="row">
           <div class="column">
             <img src={yuliia} alt="Yuliia Kasapska" />
           </div>
           <div class="column">
-            <img src={koffi} alt="Koffi" />
+            <img src={trevor} alt="Trevor Henits" />
+            
             
           </div>
           <div class="column">
-            <img src={chris} alt="Chris Butler" />
+            <img src={koffi} alt="Koffi" />
+        
           </div>
           <div class="column">
-            <img src={trevor} alt="Trevor Henits" />
+            <img src={chris} alt="Chris Butler" />
+            
          
           </div>
         </div>
