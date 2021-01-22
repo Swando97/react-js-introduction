@@ -1,5 +1,5 @@
 import picture from './img/nardwuar.png';
-import AdamPicture from './img/adamswanson.png';
+import chris from './img/chris.jpg';
 import LoopiPicture from './img/loopilasso.png';
 import CoffeePicture from './img/coffee.png';
 import AtomikPicture from './img/atomik.png';
@@ -15,21 +15,19 @@ function App() {
         <p> A gallery of Adam Swanson's recent Photoshop edits.</p>
         <div class="row">
           <div class="column">
-            <img src={AdamPicture} alt="AdamPic" />
-            <img src={AtomikPicture} alt="AtomikPic" />
+            <img src={chris} alt="Chris Butler" />
+            
           </div>
           <div class="column">
-            <img src={LoopiPicture} alt="LoopiPic" />
+            
           </div>
           <div class="column">
-            <img src={CoffeePicture} alt="CoffeePic" />
+           
           </div>
           <div class="column">
-            <img src={picture} alt="NardwuarPic" />
+         
           </div>
         </div>
-            
-            
       </header>
     </div>
   );
