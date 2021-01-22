@@ -11,7 +11,7 @@ function App() {
         <h1>
           Friends Collage
         </h1>
-        <p> A gallery of Adam Swanson's special friends.</p>
+        <p> A collection of Adam Swanson's special friends.</p>
         <div class="row">
           <div class="column">
             <img src={yuliia} alt="Yuliia Kasapska" />
