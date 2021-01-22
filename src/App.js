@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Adam Swanson Photography
+          Friends Collage
         </h1>
-        <p> A gallery of Adam Swanson's close family and friends.</p>
+        <p> A gallery of Adam Swanson's special friends.</p>
         <div class="row">
           <div class="column">
             <img src={yuliia} alt="Yuliia Kasapska" />
