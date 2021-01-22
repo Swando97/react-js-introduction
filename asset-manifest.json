@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-js-introduction/static/css/main.32b0ba64.chunk.css",
-    "main.js": "/react-js-introduction/static/js/main.58efbfe0.chunk.js",
-    "main.js.map": "/react-js-introduction/static/js/main.58efbfe0.chunk.js.map",
+    "main.js": "/react-js-introduction/static/js/main.40980fea.chunk.js",
+    "main.js.map": "/react-js-introduction/static/js/main.40980fea.chunk.js.map",
     "runtime-main.js": "/react-js-introduction/static/js/runtime-main.1ac91eb4.js",
     "runtime-main.js.map": "/react-js-introduction/static/js/runtime-main.1ac91eb4.js.map",
     "static/js/2.89dd1628.chunk.js": "/react-js-introduction/static/js/2.89dd1628.chunk.js",
@@ -14,14 +14,13 @@
     "static/js/2.89dd1628.chunk.js.LICENSE.txt": "/react-js-introduction/static/js/2.89dd1628.chunk.js.LICENSE.txt",
     "static/media/chris.27113461.jpg": "/react-js-introduction/static/media/chris.27113461.jpg",
     "static/media/koffi.e3bb355d.jpg": "/react-js-introduction/static/media/koffi.e3bb355d.jpg",
-    "static/media/nardwuar.da427ccf.png": "/react-js-introduction/static/media/nardwuar.da427ccf.png",
-    "static/media/trevor.29fa26c6.jpg": "/react-js-introduction/static/media/trevor.29fa26c6.jpg",
-    "static/media/yuliia.0973d646.png": "/react-js-introduction/static/media/yuliia.0973d646.png"
+    "static/media/trevor.c43b1f28.png": "/react-js-introduction/static/media/trevor.c43b1f28.png",
+    "static/media/yuliia.7bdca9db.png": "/react-js-introduction/static/media/yuliia.7bdca9db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1ac91eb4.js",
     "static/js/2.89dd1628.chunk.js",
     "static/css/main.32b0ba64.chunk.css",
-    "static/js/main.58efbfe0.chunk.js"
+    "static/js/main.40980fea.chunk.js"
   ]
 }
