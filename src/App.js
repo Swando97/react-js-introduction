@@ -1,6 +1,6 @@
 import picture from './img/nardwuar.png';
 import chris from './img/chris.jpg';
-import LoopiPicture from './img/loopilasso.png';
+import koffi from './img/koffi.jpg';
 import CoffeePicture from './img/coffee.png';
 import AtomikPicture from './img/atomik.png';
 import './App.css';
@@ -19,6 +19,7 @@ function App() {
             
           </div>
           <div class="column">
+            <img src={koffi} alt="Koffi" />
             
           </div>
           <div class="column">
