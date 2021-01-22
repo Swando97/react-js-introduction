@@ -1,8 +1,8 @@
 import picture from './img/nardwuar.png';
 import chris from './img/chris.jpg';
 import koffi from './img/koffi.jpg';
+import trevor from './img/trevor.jpg';
 import yuliia from './img/yuliia.png';
-import AtomikPicture from './img/atomik.png';
 import './App.css';
 
 function App() {
@@ -27,6 +27,7 @@ function App() {
            
           </div>
           <div class="column">
+            <img src={trevor} alt="Trevor Henits" />
          
           </div>
         </div>
