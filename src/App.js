@@ -1,7 +1,7 @@
 import picture from './img/nardwuar.png';
 import chris from './img/chris.jpg';
 import koffi from './img/koffi.jpg';
-import CoffeePicture from './img/coffee.png';
+import yuliia from './img/yuliia.png';
 import AtomikPicture from './img/atomik.png';
 import './App.css';
 
@@ -23,6 +23,7 @@ function App() {
             
           </div>
           <div class="column">
+            <img src={yuliia} alt="Yuliia Kasapska" />
            
           </div>
           <div class="column">
