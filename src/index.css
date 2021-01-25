@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+header{
+  background-image: url(img/lions.jpg);
+}
+
 .row {
   display: flex;
   flex-wrap: nowrap;
