@@ -27,6 +27,9 @@ function App() {
           </div>
         </div>
       </header>
+      <body>
+        <p>WHAT IS THIS MY G</p>
+      </body>
     </div>
   );
 }
