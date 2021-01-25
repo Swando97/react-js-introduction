@@ -2,6 +2,7 @@ import chris from './img/chris.jpg';
 import koffi from './img/koffi.jpg';
 import trevor from './img/trevor.png';
 import yuliia from './img/yuliia.png';
+import lion from './img/lions.jpg';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
           Friends Collage
         </h1>
         <p> A collection of Adam Swanson's special friends.</p>
+        <img src={lion} alt="background" />
       </header>
       <body>
       <div class="row">
