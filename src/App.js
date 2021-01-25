@@ -13,7 +13,6 @@ function App() {
           Friends Collage
         </h1>
         <p> A collection of Adam Swanson's special friends.</p>
-        <img src={lion} alt="background" />
       </header>
       <body>
       <div class="row">
