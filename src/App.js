@@ -12,7 +12,7 @@ function App() {
         <h1>
           Friends Collage
         </h1>
-        <p> A collection of Adam Swanson's special friends.</p>
+        <p> A collection of <b>Adam Swanson's</b> special friends.</p>
       </header>
       <body>
       <div class="row">
