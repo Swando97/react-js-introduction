@@ -41,4 +41,11 @@ h1,p{
   width: 100%;
 }
 
+/* For width 600px and smaller: */
+@media only screen and (max-width: 600px){
+  .collapse {
+    display: none;
+  }
+}
+
 
