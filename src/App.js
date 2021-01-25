@@ -12,7 +12,9 @@ function App() {
           Friends Collage
         </h1>
         <p> A collection of Adam Swanson's special friends.</p>
-        <div class="row">
+      </header>
+      <body>
+      <div class="row">
           <div class="column">
             <img src={yuliia} alt="Yuliia Kasapska" />
           </div>
@@ -26,9 +28,6 @@ function App() {
             <img src={chris} alt="Chris Butler" />
           </div>
         </div>
-      </header>
-      <body>
-        <p>WHAT IS THIS MY G</p>
       </body>
     </div>
   );
