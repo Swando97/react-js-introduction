@@ -17,16 +17,16 @@ function App() {
       <body>
       <div class="row">
           <div class="column">
-            <img class="collapse" src={yuliia} alt="Yuliia Kasapska" />
+            <img class="collapse" src={yuliia} alt="Yuliia Kasapska" style={{width: "100%"}} />
           </div>
           <div class="column">
-            <img class="collapse" src={trevor} alt="Trevor Henits" />
+            <img class="collapse" src={trevor} alt="Trevor Henits" style={{width: "100%"}} />
           </div>
           <div class="column">
-            <img class="collapse" src={koffi} alt="Koffi" />
+            <img class="collapse" src={koffi} alt="Koffi" style={{width: "100%"}} />
           </div>
           <div class="column">
-            <img class="collapse" src={chris} alt="Chris Butler" />
+            <img class="collapse" src={chris} alt="Chris Butler" style={{width: "100%"}} />
           </div>
         </div>
       </body>
