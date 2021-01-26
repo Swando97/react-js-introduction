@@ -38,13 +38,16 @@ h1,p{
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
   }
 }
+
+
 
 
