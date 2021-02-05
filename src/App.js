@@ -10,9 +10,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Friends Collage
+          QRZones
         </h1>
-        <p> A collection of <b>Adam Swanson's</b> special friends.</p>
+        <p> A collection of <b>QR's</b> special friends.</p>
       </header>
       <body>
       <div class="row">
